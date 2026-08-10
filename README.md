@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sparsh468/github-snake/output/github-snake.svg" />
+</p>
