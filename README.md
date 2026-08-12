@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Let's do coding
+I'm a 3rd-year B.Tech student in Computer Science & Engineering (CSE-IT) at SRM Institute of Science and Technology. I'm passionate about Data Structures & Algorithms and enjoy solving problems that sharpen my logical thinking. Alongside DSA, I love building things — from web apps to small projects that solve real-world problems. Currently exploring new technologies, sharpening my development skills, and always up for learning something new.
 
 
 ## 🌐 Socials:
