@@ -15,11 +15,7 @@ Let's do coding
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sparsh468&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sparsh468&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Sparsh468&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://raw.githubusercontent.com/Sparsh468/Sparsh468/output/github-contribution-grid-snake-dark.svg)
