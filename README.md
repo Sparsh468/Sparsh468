@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/ecda171a-d334-45af-a1e2-548c7c998c31" />
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/b313ef5d-ffef-4bf1-bade-afed93cbbdd6" />
 
 <h3 align="center">👋 About Me</h3>
 <img align="right" alt="Sticker" width="220" src="https://github.com/user-attachments/assets/ff3ee110-df55-4bd9-a8a4-6a7b49059882" />
