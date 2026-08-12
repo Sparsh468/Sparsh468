@@ -1,9 +1,10 @@
+
 <img width="736" height="414" alt="_css" src="https://github.com/user-attachments/assets/fc647a94-a67d-434c-a489-fb1b5614810c" />
 
 
 ### 👋 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://github.com/user-attachments/assets/e1a06d85-7a3b-46f2-919c-7c4e4d2a450a" />
+<img align="right" alt="Coding GIF" width="300" src="https://github.com/user-attachments/assets/ae1ed97e-ed52-4f9a-bd9a-afa95d85306e" />
 
 🎓 I'm a 3rd-year B.Tech student in Computer Science & Engineering (CSE-IT) at SRM Institute of Science and Technology. I'm passionate about Data Structures & Algorithms and enjoy solving problems that sharpen my logical thinking. Alongside DSA, I love building things — from web apps to small projects that solve real-world problems. Currently exploring new technologies, sharpening my development skills, and always up for learning something new. 🚀
 
