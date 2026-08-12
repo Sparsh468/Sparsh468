@@ -3,12 +3,12 @@
 
 
 ### 👋 About Me
-
-<img align="right" alt="Coding GIF" width="300" src="https://github.com/user-attachments/assets/ae1ed97e-ed52-4f9a-bd9a-afa95d85306e" />
+<img align="right" alt="Sticker" width="220" src="https://github.com/user-attachments/assets/ff3ee110-df55-4bd9-a8a4-6a7b49059882" />
 
 I'm a 3rd-year B.Tech student in Computer Science & Engineering (CSE-IT) at SRM Institute of Science and Technology. I'm passionate about Data Structures & Algorithms and enjoy solving problems that sharpen my logical thinking. Alongside DSA, I love building things — from web apps to small projects that solve real-world problems. Currently exploring new technologies, sharpening my development skills, and always up for learning something new.
 
 <br clear="right"/>
+
 
 
 
