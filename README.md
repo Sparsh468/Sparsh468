@@ -1,14 +1,15 @@
 
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/ecda171a-d334-45af-a1e2-548c7c998c31" />
 
+<h3 align="center">👋 About Me</h3>
 
-### 👋 About Me
 <img align="right" alt="Sticker" width="220" src="https://github.com/user-attachments/assets/ff3ee110-df55-4bd9-a8a4-6a7b49059882" />
 
-I'm a 3rd-year B.Tech student in Computer Science & Engineering (CSE-IT) at SRM Institute of Science and Technology. I'm passionate about Data Structures & Algorithms and enjoy solving problems that sharpen my logical thinking. Alongside DSA, I love building things — from web apps to small projects that solve real-world problems. Currently exploring new technologies, sharpening my development skills, and always up for learning something new.
+<p align="left">
+I'm a 3rd-year B.Tech student in Computer Science & Engineering (CSE-IT) at SRM Institute of Science and Technology. I'm passionate about Data Structures & Algorithms and enjoy solving problems that sharpen my logical thinking — I regularly practice DSA to strengthen my problem-solving and analytical skills. Alongside DSA, I love building things, from web apps to small projects that solve real-world problems, and I enjoy the entire process of turning an idea into working code. Currently exploring new technologies, sharpening my development skills, and learning how to write cleaner, more efficient code. I'm always up for learning something new, whether it's a new language, framework, or concept, and I genuinely enjoy the challenge that comes with figuring things out from scratch. When I'm not coding, I like exploring tech communities and staying updated with the latest trends in software development.
+</p>
 
 <br clear="right"/>
-
 
 
 
